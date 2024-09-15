@@ -1,0 +1,51 @@
+Region,Date,DateR,Shop ID,Product,Sales (ZAR),Demand
+Gauteng,2023-01-01,2023-01-01,001,Bread,150,30
+Gauteng,2023-01-01,2023-01-01,001,Milk,100,25
+KZN,2023-01-01,2023-01-01,002,Maize Meal,200,40
+KZN,2023-01-01,2023-01-01,002,Soft Drinks,250,50
+Gauteng,2023-01-02,2023-01-02,001,Sugar,160,32
+Gauteng,2023-01-02,2023-01-02,001,Soap,120,20
+Western Cape,2023-01-02,2023-01-02,003,Cheese,180,35
+Western Cape,2023-01-02,2023-01-02,003,Juice,220,45
+Free State,2023-01-03,2023-01-03,004,Butter,140,28
+Free State,2023-01-03,2023-01-03,004,Coffee,190,38
+North West,2023-01-03,2023-01-03,005,Tea,130,26
+North West,2023-01-03,2023-01-03,005,Jam,170,34
+Limpopo,2023-01-04,2023-01-04,006,Cereal,210,42
+Limpopo,2023-01-04,2023-01-04,006,Milk Powder,250,50
+Eastern Cape,2023-01-05,2023-01-05,007,Spices,160,32
+Eastern Cape,2023-01-05,2023-01-05,007,Flour,200,40
+Mpumalanga,2023-01-06,2023-01-06,008,Rice,190,38
+Mpumalanga,2023-01-06,2023-01-06,008,Oil,220,44
+Northern Cape,2023-01-07,2023-01-07,009,Peanut Butter,140,28
+Northern Cape,2023-01-07,2023-01-07,009,Tomato Sauce,170,34
+Western Cape,2023-01-08,2023-01-08,010,Butter Milk,210,42
+Western Cape,2023-01-08,2023-01-08,010,Mayonnaise,240,48
+KwaZulu-Natal,2023-01-09,2023-01-09,011,Orange Juice,150,30
+KwaZulu-Natal,2023-01-09,2023-01-09,011,Tea Bags,180,36
+Gauteng,2023-01-10,2023-01-10,012,Chocolate,200,40
+Gauteng,2023-01-10,2023-01-10,012,Chewing Gum,130,26
+Bushbuckridge,2023-01-11,2023-01-11,013,Hand Sanitizer,110,22
+Bushbuckridge,2023-01-11,2023-01-11,013,Face Masks,130,26
+Mpumalanga,2023-01-12,2023-01-12,014,Granola Bars,140,28
+Mpumalanga,2023-01-12,2023-01-12,014,Energy Drinks,160,32
+Limpopo,2023-01-13,2023-01-13,015,Herbal Tea,120,24
+Limpopo,2023-01-13,2023-01-13,015,Noodles,150,30
+Northern Cape,2023-01-14,2023-01-14,016,Instant Coffee,180,36
+Northern Cape,2023-01-14,2023-01-14,016,Canned Beans,200,40
+Free State,2023-01-15,2023-01-15,017,Margarine,190,38
+Free State,2023-01-15,2023-01-15,017,Pasta,210,42
+Eastern Cape,2023-01-16,2023-01-16,018,Chocolate Milk,170,34
+Eastern Cape,2023-01-16,2023-01-16,018,Crisps,200,40
+Western Cape,2023-01-17,2023-01-17,019,Energy Bars,150,30
+Western Cape,2023-01-17,2023-01-17,019,Soy Sauce,180,36
+KwaZulu-Natal,2023-01-18,2023-01-18,020,Sausages,210,42
+KwaZulu-Natal,2023-01-18,2023-01-18,020,Butter,250,50
+Mpumalanga,2023-01-19,2023-01-19,021,Tinned Fruit,130,26
+Mpumalanga,2023-01-19,2023-01-19,021,Beef Steaks,200,40
+Northern Cape,2023-01-20,2023-01-20,022,Orange Marmalade,160,32
+Northern Cape,2023-01-20,2023-01-20,022,Granulated Sugar,190,38
+Free State,2023-01-21,2023-01-21,023,Dried Fruit,140,28
+Free State,2023-01-21,2023-01-21,023,Instant Oats,170,34
+Eastern Cape,2023-01-22,2023-01-22,024,Tomato Paste,150,30
+Eastern Cape,2023-01-22,2023-01-22,024,Peas,180,36
